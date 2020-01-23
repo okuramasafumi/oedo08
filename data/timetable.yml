@@ -78,7 +78,7 @@ events:
   end: '14:35'
   name: 休憩
 - color: red
-  flug: girls
+  flag: girls
   begin: '14:35'
   end: '15:15'
   name: Girls(仮)
